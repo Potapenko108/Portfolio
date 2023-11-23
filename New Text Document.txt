@@ -1,0 +1,28 @@
+
+We are testing a flashlight for the military
+
+Unit tests
+1. Turn on, turn off the switch. We check the modes, whether the switch works.
+2. We check the light, the distance of the light, the light bulb.
+3. We check the charging mechanism, whether it is charging. Availability of batteries.
+4. We check the strength of the housing material, whether it breaks when pressed.
+5. We attach the lantern to the clothes, check the strength of the fastening, staples, loops.
+
+Integration tests
+1. Switch the button, check the interaction of the switch and changes in light modes.
+2. We put it to charge, whether the charge is supplied to the lantern or a strong wire.
+3. We press the button often, check the strength of the button and its cushioning.
+
+System tests
+1. We test the flashlight as a whole. Does it illuminate well?
+2. Is it durable?
+3. How long does the charge last?
+
+Acceptance tests
+1. We test according to the requirements, 
+whether it corresponds to the certificate with the quality description.
+
+Alpha, Beta, Gamma
+Tested by a group of people.
+We click, shine towards the neighbors, leave it on for a long time,
+ then try how much it charges.
