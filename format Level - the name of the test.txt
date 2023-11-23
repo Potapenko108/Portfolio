@@ -1,0 +1,39 @@
+We test the site in the format Level - the name of the test
+
+Unit tests
+1. Functional tests:
+and). We check the forms (registration, login, payment card, feedback)
+ b). Search testing
+ in). Testing fields and correct display of blocks
+d). Testing pop-up blocks
+d). Filter testing
+is). Testing all buttons
+is). checking for the absence of serious syntax errors 
+and access to various search engines
+g). Checking DevTools - Are all images loading or are there any errors in the Console
+
+Integration tests
+1. We check payment by card, sharing in social networks.
+2. Display of advertising blocks.
+3. Clicks, transitions to pages, display of content blocks on the required pages
+
+System tests
+1. Security
+     a). can the user log in with the old password
+      b). Is the password hidden?
+2. Localization
+       and). enter the phone number with the codes of different countries
+       b). translation quality when changing the language
+       in). correct display of currency for different regions
+3. Usability
+       and). No errors in texts and titles
+       b). Alignment of objects
+       in). Indents between blocks
+        d). No broken links and buttons.
+       d). Convenience of content location
+        is). Logical and correct navigation
+
+Acceptance tests
+1. We test compliance with the requirements.
+Alpha, Beta, Gamma
+Tested by a group of users
