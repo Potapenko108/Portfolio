@@ -1,0 +1,11 @@
+ 
+If the user enters the correct name and password, he will be authorized and redirected to the home page. If any data is incorrect, an error message is displayed.
+Condition	1	2	3	4
+User name	F	T	F	T
+Password	F	F	T	T
+Result	E	E	E	H
+
+T  - is the correct username and password
+F- Incorrect username and password
+E – an error message is displayed
+N – the user is authorized/ redirection to the home page
